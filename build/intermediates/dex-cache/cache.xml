@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\695213956qq.com\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\studioWorkspace\RangeSeekBarDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_7a17c5fdc1e9a0fc4d19e8e1a24434f9d30c2a4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\695213956qq.com\.android\build-cache\9b173f5109dfdf0d871683420ca476c060f980fe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\studioWorkspace\RangeSeekBarDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_13b7cbbe4a15071e9f49afa5d4c6dad5a1b594ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\695213956qq.com\.android\build-cache\fdef09d8f2f3c1f118c4433f3033361be626c851\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\studioWorkspace\RangeSeekBarDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_87a45e965fb28ed852c9c3b5390a7f2cec8dd128\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\695213956qq.com\.android\build-cache\208a5e071abbc71c2bb08bda490b6458c746d639\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\studioWorkspace\RangeSeekBarDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2dbe117bdeefdf23991f7476820272bdc15b9636\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\695213956qq.com\.android\build-cache\fb39b834d649fc0de94f31ea00651ae0f84b6b22\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\studioWorkspace\RangeSeekBarDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1b7a7b933f5788b8c97f058439d2cc9c626a49f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\695213956qq.com\.android\build-cache\e57b5bf5940f606f0b68c582941363f62c12aaa5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\studioWorkspace\RangeSeekBarDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4cc0a1449110c9cadde70c57e32ae60b557def57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\studioWorkspace\RangeSeekBarDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="D:\studioWorkspace\RangeSeekBarDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9774ac2ae97697a339d0d0a5e42495be128298df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\695213956qq.com\.android\build-cache\133a968c11f459524ea8d66248466018ad2dca1e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\studioWorkspace\RangeSeekBarDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_14e9b0cb05a296665ef4ccc915257b731304bca0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\695213956qq.com\.android\build-cache\03860b65e3df9b0d2065fce8facd070e8502d5e7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\studioWorkspace\RangeSeekBarDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e85e881baffe0169b9e82cef1a0d6f4f671ac442\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\695213956qq.com\.android\build-cache\4dc670a74d82c6833813435ede73ea4ecf44c1a0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\studioWorkspace\RangeSeekBarDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a3ac83eb72895bc6bb19415cc33c3ef9baab109a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\studioWorkspace\RangeSeekBarDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d1faa1e925e71106610ff53a7ec09687891fe1df">
+        <dex dex="D:\studioWorkspace\RangeSeekBarDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0c3d8b9c5138fef1ba173bdcbba7f88e29ae1c38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\695213956qq.com\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\studioWorkspace\RangeSeekBarDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_b50ebabdd6c37ffbdf5e580d48d9f81f8214cc29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\695213956qq.com\.android\build-cache\7ccc1da53fa6b4b0b950bc7c4218d5dbce364a81\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\studioWorkspace\RangeSeekBarDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b71e0c1c469fb9251c0da779a8b8e1c397b4a01b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\695213956qq.com\.android\build-cache\e6c76fc7ff3922d5927385a3c013881763f019a4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\studioWorkspace\RangeSeekBarDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_13024e93d24b3a7854ec6270537a894c3d8083f2\classes.dex" />
+    </item>
+
+</items>

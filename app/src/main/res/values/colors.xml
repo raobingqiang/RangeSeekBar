@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="grey">#909AAB</color> <!--R:144 G:154 B:171-->
+    <color name="blue">#006EBF</color> <!--R:0 G:110 B:191-->
+    <color name="yellow">#55FFA500</color>
+
+    <!--grey+second_grey+bule=grey-->
+    <color name="second_grey">#902C14</color><!--R:144 G:44 B:20-->
+    <!--125,158,188-->
+</resources>
